@@ -3,3 +3,4 @@ Here's another text file!
 Apples
 Oranges
 Pears
+Bananas
